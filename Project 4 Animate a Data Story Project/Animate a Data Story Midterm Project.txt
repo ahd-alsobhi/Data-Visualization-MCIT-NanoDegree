@@ -1,0 +1,42 @@
+Introduction
+You are an analyst for The World Bank. You are conducting research for the World Bank on historical global trends to better understand the current situation and how things have developed in different countries and regions around the world.
+
+Your manager has tasked you with conducting data analysis on a world indicators data set to find and tell a data story at a conference for global development nonprofits. You are given access to historical data going back to 1990 on a variety of country-level attributes related to energy usage, the impact on the environment, and the economy.
+
+Project Overview
+In this project, you'll build on your previously developed skills of creating charts, graphs, maps and dashboards in Tableau, and apply what you've learned in the lessons on creating stories. You will use the Tableau Story Points feature and the seven data story types in order to find, create and tell a coherent data story to your audience.
+
+Datasets
+Go ahead and download the file “Energy Environment Economy.csv” below under Supporting Materials. The data set features annual data about 217 countries and territories from 1990 through 2014. This dataset has been compiled from data sets originally sourced from the World Bank data bank.
+
+The data set includes the following fields:
+
+Country Name: Name of the country
+Country Code: 3 digit code for each country
+Region: The region of the globe the country is a part of (e.g. North America, Europe & Central Asia, etc.)
+Income Group: Whether each country is part of the High income, Upper middle income, lower middle income, or Low income
+Year
+Energy use (kg of oil equivalents per capita)
+Population
+CO2 emissions (metric tons per capita)
+Renewable energy consumption (% of energy)
+GDP per capita, PPP (purchase price parity)
+Electric power consumption (kWh per capita)
+Access to electricity (% of population)
+Forest area (% of land)
+Supporting Materials
+Energy Environment Economy
+
+Project Instructions
+To complete the project, you’ll need to complete the following tasks:
+
+Explore the data to find a data story using one or more of the seven data story types.
+Create and publish a Tableau Story to your Tableau Public account using the Story Points feature.
+The Tableau story that you build needs to include the following elements:
+
+At least 3 different Navigator tiles that together form a cohesive and coherent narrative.
+Annotations explaining your data story
+A descriptive title and 1-2 lead-in sentences.
+Submission
+For your submission, you will submit the link to your data story published to your Tableau Public account.
+
