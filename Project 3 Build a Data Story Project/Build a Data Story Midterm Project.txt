@@ -1,0 +1,35 @@
+Introduction
+You are a data science consultant for a large production company, Spectacular Studios. They have been collecting data on the merits of thousands of movies that have come out in the past several years and the respective audience responses. The studio is unsure what to do with the data they have and have asked you to come on board to provide insights on what they can take away from this data set. Your job is to provide the executive team with insights into a problem that matters to them.
+
+Your role is to define the problem that is compelling enough for the executive team to warrant taking action. From there, your role is to develop the storyline of what you can expect the data to tell you from your analysis.
+
+Project Overview
+In this project, you will apply the skills you have learned in structuring a data story. You will be provided with a Movies Metadata CSV and will have the ability to define your own problem statement, the analyses you would conduct to solve the objective and outline a set of potential solutions/actionable next steps for the target audience.
+
+Project Dataset
+For this project, you’ll be working with a set of movies metadata from The Movies Dataset, available on Kaggle.
+
+The data set includes information on highly successful movies, listed in the Internet Movie Database (IMDb). The full dataset from Kaggle includes multiple CSV files, but you will be working with this one in particular:
+
+movies_metadata.csv, that contains metadata (e.g., budget, revenue, release dates) for over 45,000 movies
+If you prefer, you can also download just the movies metadata file from the classroom resources.
+
+You may want to brush up on your data cleaning and formatting skills before diving into the project,
+
+
+Instructions
+The goal of this project is to define your own problem statement and the flow of a powerful data story. As a result, the template ought to include the following elements but you are encouraged to include any elements that you believe are pertinent to conveying your insights.
+
+Synthesis/Executive Summary
+
+The Problem Statement
+
+Caveats/Limitations and Biases
+
+Conclusion and Action Items
+
+Project Steps
+Define the problem statement you find particularly compelling for an executive team
+Build out a ghost deck that conveys the analyses you’ll need to conduct to provide actionable insights to an executive team. (FYI: The ghost deck should be a comprehensive analysis; you are encouraged to include an issue tree upfront or in the appendix to help the audience understand how you structured the problem)
+Include an executive summary that takes the team through the problem to be solved, the key takeaways, and your recommendation
+Call out hypothesized biases and limitations in the dataset and why they matter to a potential recommendation

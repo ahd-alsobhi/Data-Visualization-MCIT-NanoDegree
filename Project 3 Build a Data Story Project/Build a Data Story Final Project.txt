@@ -1,0 +1,23 @@
+Introduction
+You are continuing your work for Spectacular Studios. The executive team would like for you to walk through your recommendations and risks to the analysis that might affect your proposed action items. Your job is to provide their team with the final presentation, including an executive summary of key next steps.
+
+Your role will be to develop a final presentation that is roughly 10-15 slides and provide a detailed analysis that digs into potential limitations and biases of the dataset you’re working with.
+
+Overview
+You will now bring together all you have learned about data storytelling by combining the ghost deck and their analyses to provide a final recommendation. You will also need to identify the limitations and biases in data that affect the recommendations you provide.
+
+You will continue to use the same Movies Metadata CSV and conduct the EDA necessary to understand the dataset as a whole. The expected output will be to surface if the dataset is balanced if there are anomalies in the dataset that affect the applicability of the recommendation, and the final presentation itself that will be used for a mock recommendation to a management team.
+
+Datasets: For this project, you’ll be working with a choice of datasets. The description above relies on the Metadata_Movies.csv.
+
+Datasets
+You will continue using the same Metadata_Movies.csv dataset that you used in the midterm project.
+
+The data set includes information on highly successful movies, listed in the Internet Movie Database (IMDb).
+
+Project Steps:
+Note: Use the same dataset you used in the Midterm Project
+
+Conduct the analyses that you had written out in the Midterm Project
+Dig into potential limitations, biases, and data quality issues that affect the credibility of your recommendations and address why these biases affect your recommendation.
+Put together a final presentation that is ready to present to an executive team
