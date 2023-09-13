@@ -1,0 +1,47 @@
+Data Visualization Capstone Project
+Overview
+The purpose of the data visualization capstone project is to give you a chance to combine what you've learned throughout the program. This project will be an important part of your portfolio that will help you achieve your career goals in data visualization. __You will be writing a blog to describe how you would improve an existing visualization. __
+
+What you will create?
+In this project, you goal is to choose a dataset or visualization from MakeoverMonday that you believe you can improve by creating a different dashboard/ data presentation or animated story. You will create a blog that includes your reflection on what improvements you made to the existing visualization, and you will include links to your new improved visualization.
+
+You get to define the scope and data for a project of your own design. Once you have decided which dataset or visualization to work with, complete the following steps.
+
+Project Requirements
+Your blog should include a link to the original visualization along with a citation for the original data source.
+In your blog, please clearly indicate whether you are providing a new dashboard, data presentation slides or the animated story.
+Please include a link to your dashboard/ presentations (It is OK to include screenshots of the slides) or animated story.
+
+Project Resources
+In the following pages, you will hear from Josh about how to build compelling blog posts. This resource has been provided to help you get more familiar with creating a blog post and important elements of a blog posts. The project rubric will not include any criteria for building blog posts.
+
+
+Project Instructions
+Instructions
+To help guide your project, we've broken it down into a series of tasks.
+
+Step 1: Scope the Project and Gather Data
+In this step, you will:
+
+Identify and gather the data or visualization you'll be using for your project.
+Visit the MakeoverMonday website to choose a dataset and link for the corresponding Source article/visualization.
+Make sure to capture both the Source article/visualization and link to the source data. You will need to include this in your blog to indicate how you plan to improve on the visualization or provide a different take on it.
+Step 2: Explore and Assess the Data
+Explore the data to identify any data limitations and biases that can occur at the three stages of data (collection, processing and insights).
+Document these in your blog.
+Step 3: Define the Problem Statement OR Data Story Type
+This step varies depending on whether you will be creating a dashboard, data presentation or animated data story
+Dashboard: If you choose to create a new dashboard, define what questions the dashboard user will be able to answer and include these in your blog
+Data Presentation: If you choose to create a data presentation, define the problem statement that your analysis will address, include an issue tree and add it in your blog.
+Animated Data Story: If you choose to create a data presentation, make sure to include which data story type you will be using and add it in your blog.
+Step 4: Complete the Analysis and your data visualization
+Please include a screenshot of your dashboard, data visualization or link to your animated data story.
+Step 5: Complete Project Write Up
+Make sure to include a rationale for why your data visualization is unique and improves the current data visualization linked to MakeoverMonday.
+__For Data Dashboard: __ Describe how your annotations, chart choice, alignment, layouts make your data visualization better than what is in the current data visualization linked to MakeoverMonday.
+__For Data Presentation: __ Describe how your issue tree addresses any gaps compared to the current data visualization linked to MakeoverMonday. Include a description of limitations and biases, and your choice of data visualization addresses the problem statement better.
+__For Animated Data Story: __ Describe how your data story, annotations and animation features address the topic in the current data visualization from MakeoverMonday in ways that make it better or different.
+Rubric
+In the Project Rubric, you'll see more detail about the requirements. Use the rubric to assess your own project before you submit to Udacity for review. As with other projects, Udacity reviewers will use this rubric to assess your project and provide feedback. If your project does not meet specifications, you can make changes and resubmit.
+
+
